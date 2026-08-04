@@ -1,5 +1,5 @@
 ### 🚀 Hi there!
-### This is Zhehao Yi!
+### This is Zhehao (Peter) Yi!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/PeterYi-del)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zhehaoyi3@gmail.com)
